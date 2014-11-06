@@ -1,0 +1,27 @@
+h1{
+    color: orange;
+    background-color: black;
+    font-family: courier;
+    font-size: 50px;
+}
+
+p{
+    color: blue;
+    background-color: orange;
+    font-family: impact;
+    font-size: 30px;
+}
+
+#different{
+    color: white;
+}
+
+#secondPara{
+    font-family: impact;
+    font-weight: 300;
+}
+
+a:link{
+    font-family: courier;
+     color: #00FF00;
+}
