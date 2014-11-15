@@ -25,3 +25,7 @@ a:link{
     font-family: courier;
      color: #00FF00;
 }
+
+a.test{
+    font-weight: bold;
+}
